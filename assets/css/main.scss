@@ -6,3 +6,4 @@
 
 @import "jorel-zhou/skins/{{ site.jorel_zhou_skin | default: 'default' }}"; // skin
 @import "jorel-zhou"; // main partials
+@import "font-awesome";
