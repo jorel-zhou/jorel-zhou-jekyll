@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    minimal-mistakes-jekyll (4.15.2)
+    jorel-zhou-jekyll (1.0.0)
       jekyll (~> 3.7)
       jekyll-data (~> 1.0)
       jekyll-feed (~> 0.10)
@@ -111,7 +111,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  minimal-mistakes-jekyll!
+  jorel-zhou-jekyll!
   rake (~> 10.0)
 
 BUNDLED WITH

@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "主页"
+    url: https://junzhou.ml/
+  # - title: "关于"
+  #   url: https://junzhou.ml/about/
+  # - title: "DevOps"
+  #   url: /devops/
+  # - title: "微服务"
+  #   url: /microservice/
+  # - title: "云计算"
+  #   url: /cloud/

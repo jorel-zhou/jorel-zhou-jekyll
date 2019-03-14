@@ -1,22 +1,22 @@
 {
-  "name": "minimal-mistakes",
-  "version": "4.15.2",
-  "description": "Minimal Mistakes 2 column Jekyll theme.",
+  "name": "jorel-zhou",
+  "version": "1.0.0",
+  "description": "中文Jekyll theme.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git@github.com:jorel-zhou/jorel-zhou-jekyll.git"
   },
   "keywords": [
     "jekyll",
     "theme",
-    "minimal"
+    "jorel-zhou"
   ],
-  "author": "Michael Rose",
+  "author": "Jorel Zhou",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/jorel-zhou/jorel-zhou-jekyll/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://github.com/jorel-zhou/jorel-zhou-jekyll",
   "engines": {
     "node": ">= 0.10.0"
   },
