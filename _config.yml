@@ -114,7 +114,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:jorel_zhou@outlook.com
-    - label: "个人网站"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://junzhou.ml"
     - label: "QQ"
