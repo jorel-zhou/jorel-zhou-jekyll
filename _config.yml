@@ -97,9 +97,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+  provider               : "baidu" # false (default), "google", "google-universal", "custom"
+  baidu:
+    tracking_id          : # "123b234juvy23a0123nv91213"
     anonymize_ip         : # true, false (default)
 
 
@@ -136,10 +136,10 @@ footer:
     - label: "QQ"
       icon: "fab fa-qq fa-3x"
       # url:
-    - label: "微信"
+    - label: "Weixin"
       icon: "fab fa-weixin fa-3x"
       # url:
-    - label: "微博"
+    - label: "Weibo"
       icon: "fab fa-weibo fa-3x"
       # url:
     - label: "GitHub"
